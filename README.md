@@ -120,17 +120,38 @@ Evaluation of environmental benefits and CO₂ reduction.
 utility-scale-pv-economic-analysis/
 │
 ├── README.md
-├── reports/
-├── images/
-├── calculations/
-├── simulation-results/
+├── cost-analysis.png
+├── payback-analysis.png
+├── pv-installation.png
+├── sankey-analysis.png
+├── LICENSE
 ```
 
 ---
 
 # 📸 Project Visuals
 
-Project screenshots, PV layouts, simulation outputs, graphs, and economic analysis visuals will be added here.
+## 🔁 Sankey Analysis
+
+![Sankey Analysis](sankey-analysis.png)
+
+---
+
+## 📊 Payback & Sensitivity Analysis
+
+![Payback Analysis](payback-analysis.png)
+
+---
+
+## 💰 Cost Analysis
+
+![Cost Analysis](cost-analysis.png)
+
+---
+
+## ☀ PV Installation Recommendation
+
+![PV Installation](pv-installation.png)
 
 ---
 
@@ -151,10 +172,10 @@ Project screenshots, PV layouts, simulation outputs, graphs, and economic analys
 🎓 M.Eng. International Energy Engineering  
 🏛️ OTH Amberg-Weiden, Germany  
 
-🔗 LinkedIn:
+🔗 LinkedIn:  
 https://www.linkedin.com/in/thirupathireddychipurla/
 
-🌐 Portfolio:
+🌐 Portfolio:  
 https://thirupathichipurla-eng.github.io/
 
 ---
